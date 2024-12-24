@@ -1,0 +1,8 @@
+name: InteractiveChallenges
+version: '1.0'
+main: xyz.devcmb.ic.InteractiveChallenges
+api-version: '1.21'
+prefix: Interactive Challenges
+authors: [ DevCmb ]
+description: A plugin for creating server-wide community challenges
+website: devcmb.xyz

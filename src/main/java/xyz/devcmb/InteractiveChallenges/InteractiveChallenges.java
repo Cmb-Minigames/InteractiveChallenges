@@ -2,6 +2,7 @@ package xyz.devcmb.InteractiveChallenges;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import xyz.devcmb.InteractiveChallenges.challenges.ChallengeRegistry;
+import xyz.devcmb.InteractiveChallenges.commands.CommandManager;
 import xyz.devcmb.InteractiveChallenges.util.Database;
 
 import java.util.logging.Logger;
@@ -23,6 +24,7 @@ public final class InteractiveChallenges extends JavaPlugin {
 
         Database.connect();
         ChallengeRegistry.registerChallenges();
+        CommandManager.registerCommands();
 
         LOGGER.info("InteractiveChallenges has awakened!");
     }

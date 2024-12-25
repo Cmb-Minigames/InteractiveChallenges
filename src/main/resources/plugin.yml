@@ -6,3 +6,15 @@ prefix: Interactive Challenges
 authors: [ DevCmb ]
 description: A plugin for creating server-wide community challenges
 website: devcmb.xyz
+commands:
+  ui:
+    description: Create an empty UI to test inventories
+    usage: /<command> <slots> <name>
+    permission: interactivechallenges.debug
+  challenges:
+    description: View the challenges
+    usage: /<command>
+permissions:
+  interactivechallenges.debug:
+    description: Permission to use the debug command set
+    default: op

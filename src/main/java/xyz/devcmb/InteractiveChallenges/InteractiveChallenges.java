@@ -1,8 +1,8 @@
-package xyz.devcmb.ic;
+package xyz.devcmb.InteractiveChallenges;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import xyz.devcmb.ic.challenges.ChallengeRegistry;
-import xyz.devcmb.ic.util.Database;
+import xyz.devcmb.InteractiveChallenges.challenges.ChallengeRegistry;
+import xyz.devcmb.InteractiveChallenges.util.Database;
 
 import java.util.logging.Logger;
 

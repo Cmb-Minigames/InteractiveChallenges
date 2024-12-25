@@ -1,4 +1,4 @@
-package xyz.devcmb.ic.challenges;
+package xyz.devcmb.InteractiveChallenges.challenges;
 
 public class ChallengeNotRegisteredException extends RuntimeException {
     public ChallengeNotRegisteredException(String message) {

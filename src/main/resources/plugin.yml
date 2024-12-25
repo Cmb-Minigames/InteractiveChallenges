@@ -1,6 +1,6 @@
 name: InteractiveChallenges
 version: '1.0'
-main: xyz.devcmb.ic.InteractiveChallenges
+main: xyz.devcmb.InteractiveChallenges.InteractiveChallenges
 api-version: '1.21'
 prefix: Interactive Challenges
 authors: [ DevCmb ]

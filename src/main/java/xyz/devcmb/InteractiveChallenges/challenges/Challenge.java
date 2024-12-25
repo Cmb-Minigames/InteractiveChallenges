@@ -1,4 +1,4 @@
-package xyz.devcmb.ic.challenges;
+package xyz.devcmb.InteractiveChallenges.challenges;
 
 import org.bukkit.event.Listener;
 import org.bukkit.inventory.ItemStack;

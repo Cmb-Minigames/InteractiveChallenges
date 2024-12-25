@@ -1,8 +1,8 @@
-package xyz.devcmb.ic.util;
+package xyz.devcmb.InteractiveChallenges.util;
 
 import org.bukkit.configuration.file.FileConfiguration;
-import xyz.devcmb.ic.InteractiveChallenges;
-import xyz.devcmb.ic.challenges.Challenge;
+import xyz.devcmb.InteractiveChallenges.InteractiveChallenges;
+import xyz.devcmb.InteractiveChallenges.challenges.Challenge;
 
 import java.sql.*;
 

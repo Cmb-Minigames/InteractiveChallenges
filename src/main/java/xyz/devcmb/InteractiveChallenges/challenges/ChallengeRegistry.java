@@ -1,9 +1,9 @@
-package xyz.devcmb.ic.challenges;
+package xyz.devcmb.InteractiveChallenges.challenges;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import xyz.devcmb.ic.InteractiveChallenges;
-import xyz.devcmb.ic.util.Database;
+import xyz.devcmb.InteractiveChallenges.InteractiveChallenges;
+import xyz.devcmb.InteractiveChallenges.util.Database;
 
 import java.util.ArrayList;
 import java.util.List;

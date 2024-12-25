@@ -1,7 +1,7 @@
-package xyz.devcmb.ic.challenges;
+package xyz.devcmb.InteractiveChallenges.challenges;
 
 import org.bukkit.inventory.ItemStack;
-import xyz.devcmb.ic.InteractiveChallenges;
+import xyz.devcmb.InteractiveChallenges.InteractiveChallenges;
 
 public abstract class ChallengeSuper {
     private final String id;
